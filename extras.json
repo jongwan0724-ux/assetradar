@@ -1,0 +1,40 @@
+{
+ "items": [
+  {
+   "id": "y1",
+   "n": "Quixel Megascans",
+   "by": "Quixel · Epic Games",
+   "s": "Fab",
+   "c": "3d",
+   "u": "https://www.fab.com/",
+   "d": {
+    "ko": "스캔 기반 3D 모델·머티리얼 라이브러리 전체가 무료",
+    "en": "The whole scanned 3D and material library is free"
+   }
+  },
+  {
+   "id": "y2",
+   "n": "Scribble Planes · Pattern Pack Extra",
+   "by": "Kenney",
+   "s": "Kenney",
+   "c": "2d",
+   "u": "https://kenney.nl/assets",
+   "d": {
+    "ko": "늘 무료(CC0)인 Kenney의 이번 달 신규 팩",
+    "en": "New packs from Kenney, always free (CC0)"
+   }
+  },
+  {
+   "id": "y3",
+   "n": "Publisher of the Week gift",
+   "by": "Unity Asset Store",
+   "s": "Unity",
+   "c": "tool",
+   "u": "https://assetstore.unity.com/publisher-sale",
+   "d": {
+    "ko": "퍼블리셔 세일 페이지 안내에 따라 결제 시 받는 무료 에셋",
+    "en": "Free asset via the Publisher Sale page at checkout"
+   }
+  }
+ ]
+}

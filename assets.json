@@ -1,0 +1,1203 @@
+{
+ "updated": "2026-11-24T10:00:00+00:00",
+ "assets": [
+  {
+   "id": "u14290",
+   "store": "Unity",
+   "name": "Final IK",
+   "publisher": "RootMotion",
+   "category": "tool",
+   "url": "https://assetstore.unity.com/packages/package/14290",
+   "price": 45,
+   "regular": 90,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2025-12-11",
+     90
+    ],
+    [
+     "2025-12-18",
+     45
+    ],
+    [
+     "2026-01-11",
+     90
+    ],
+    [
+     "2026-04-13",
+     45
+    ],
+    [
+     "2026-05-08",
+     90
+    ],
+    [
+     "2026-06-11",
+     45
+    ],
+    [
+     "2026-07-16",
+     90
+    ],
+    [
+     "2026-09-15",
+     45
+    ],
+    [
+     "2026-10-08",
+     90
+    ],
+    [
+     "2026-11-17",
+     45
+    ]
+   ],
+   "atl": 27,
+   "atl_date": null,
+   "atl_seeded": true
+  },
+  {
+   "id": "u89041",
+   "store": "Unity",
+   "name": "Odin Inspector and Serializer",
+   "publisher": "Sirenix",
+   "category": "tool",
+   "url": "https://assetstore.unity.com/packages/package/89041",
+   "price": 27.5,
+   "regular": 55,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2025-11-19",
+     27.5
+    ],
+    [
+     "2025-12-10",
+     55
+    ],
+    [
+     "2025-12-18",
+     27.5
+    ],
+    [
+     "2026-01-09",
+     55
+    ],
+    [
+     "2026-04-13",
+     27.5
+    ],
+    [
+     "2026-05-08",
+     55
+    ],
+    [
+     "2026-06-11",
+     27.5
+    ],
+    [
+     "2026-07-16",
+     55
+    ],
+    [
+     "2026-09-15",
+     27.5
+    ],
+    [
+     "2026-10-08",
+     55
+    ],
+    [
+     "2026-11-24",
+     27.5
+    ]
+   ],
+   "atl": 27.5,
+   "atl_date": null,
+   "atl_seeded": true
+  },
+  {
+   "id": "u32416",
+   "store": "Unity",
+   "name": "DOTween Pro",
+   "publisher": "Demigiant",
+   "category": "tool",
+   "url": "https://assetstore.unity.com/packages/package/32416",
+   "price": 7.5,
+   "regular": 15,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2025-12-12",
+     15
+    ],
+    [
+     "2025-12-17",
+     7.5
+    ],
+    [
+     "2026-01-10",
+     15
+    ],
+    [
+     "2026-04-13",
+     7.5
+    ],
+    [
+     "2026-05-10",
+     15
+    ],
+    [
+     "2026-06-11",
+     7.5
+    ],
+    [
+     "2026-07-16",
+     15
+    ],
+    [
+     "2026-09-15",
+     7.5
+    ],
+    [
+     "2026-10-08",
+     15
+    ],
+    [
+     "2026-11-17",
+     7.5
+    ]
+   ],
+   "atl": 7.5,
+   "atl_date": null,
+   "atl_seeded": true
+  },
+  {
+   "id": "u183370",
+   "store": "Unity",
+   "name": "Feel",
+   "publisher": "More Mountains",
+   "category": "tool",
+   "url": "https://assetstore.unity.com/packages/package/183370",
+   "price": 25,
+   "regular": 50,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2025-12-10",
+     50
+    ],
+    [
+     "2025-12-17",
+     25
+    ],
+    [
+     "2026-01-08",
+     50
+    ],
+    [
+     "2026-04-13",
+     25
+    ],
+    [
+     "2026-05-08",
+     50
+    ],
+    [
+     "2026-06-10",
+     25
+    ],
+    [
+     "2026-07-16",
+     50
+    ],
+    [
+     "2026-09-14",
+     25
+    ],
+    [
+     "2026-10-08",
+     50
+    ],
+    [
+     "2026-11-16",
+     25
+    ]
+   ],
+   "atl": 20,
+   "atl_date": null,
+   "atl_seeded": true
+  },
+  {
+   "id": "u87744",
+   "store": "Unity",
+   "name": "A* Pathfinding Project Pro",
+   "publisher": "Aron Granberg",
+   "category": "tool",
+   "url": "https://assetstore.unity.com/packages/package/87744",
+   "price": 70,
+   "regular": 140,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2025-05-08",
+     140
+    ],
+    [
+     "2025-09-04",
+     70
+    ],
+    [
+     "2025-09-05",
+     140
+    ],
+    [
+     "2025-11-19",
+     70
+    ],
+    [
+     "2025-12-11",
+     140
+    ],
+    [
+     "2025-12-17",
+     70
+    ],
+    [
+     "2026-01-08",
+     140
+    ],
+    [
+     "2026-06-11",
+     70
+    ],
+    [
+     "2026-07-16",
+     140
+    ],
+    [
+     "2026-11-17",
+     70
+    ]
+   ],
+   "atl": 30,
+   "atl_date": null,
+   "atl_seeded": true
+  },
+  {
+   "id": "u242307",
+   "store": "Unity",
+   "name": "Magica Cloth 2",
+   "publisher": "Magica Soft",
+   "category": "tool",
+   "url": "https://assetstore.unity.com/packages/package/242307",
+   "price": 17.5,
+   "regular": 35,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2025-12-11",
+     35
+    ],
+    [
+     "2025-12-18",
+     17.5
+    ],
+    [
+     "2026-01-08",
+     35
+    ],
+    [
+     "2026-04-13",
+     17.5
+    ],
+    [
+     "2026-05-09",
+     35
+    ],
+    [
+     "2026-06-10",
+     17.5
+    ],
+    [
+     "2026-07-15",
+     35
+    ],
+    [
+     "2026-09-14",
+     17.5
+    ],
+    [
+     "2026-10-07",
+     35
+    ],
+    [
+     "2026-11-16",
+     17.5
+    ]
+   ],
+   "atl": 12.5,
+   "atl_date": null,
+   "atl_seeded": true
+  },
+  {
+   "id": "u768",
+   "store": "Unity",
+   "name": "Easy Save",
+   "publisher": "Moodkie",
+   "category": "tool",
+   "url": "https://assetstore.unity.com/packages/package/768",
+   "price": 29.5,
+   "regular": 59,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2025-11-19",
+     29.5
+    ],
+    [
+     "2025-12-11",
+     59
+    ],
+    [
+     "2025-12-17",
+     29.5
+    ],
+    [
+     "2026-01-08",
+     59
+    ],
+    [
+     "2026-04-13",
+     29.5
+    ],
+    [
+     "2026-05-08",
+     59
+    ],
+    [
+     "2026-06-11",
+     29.5
+    ],
+    [
+     "2026-07-16",
+     59
+    ],
+    [
+     "2026-09-15",
+     29.5
+    ],
+    [
+     "2026-10-08",
+     59
+    ],
+    [
+     "2026-11-24",
+     29.5
+    ]
+   ],
+   "atl": 14.99,
+   "atl_date": null,
+   "atl_seeded": true
+  },
+  {
+   "id": "u293522",
+   "store": "Unity",
+   "name": "Animancer Pro v8",
+   "publisher": "Kybernetik",
+   "category": "tool",
+   "url": "https://assetstore.unity.com/packages/package/293522",
+   "price": 45,
+   "regular": 90,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     45
+    ]
+   ],
+   "atl": 45,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u11672",
+   "store": "Unity",
+   "name": "Dialogue System for Unity",
+   "publisher": "Pixel Crushers",
+   "category": "tool",
+   "url": "https://assetstore.unity.com/packages/package/11672",
+   "price": 47.5,
+   "regular": 95,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     47.5
+    ]
+   ],
+   "atl": 47.5,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u122218",
+   "store": "Unity",
+   "name": "Bakery - GPU Lightmapper",
+   "publisher": "Mr F",
+   "category": "tool",
+   "url": "https://assetstore.unity.com/packages/package/122218",
+   "price": 27.5,
+   "regular": 55,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     27.5
+    ]
+   ],
+   "atl": 27.5,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u287769",
+   "store": "Unity",
+   "name": "Stylized Water 3",
+   "publisher": "Staggart Creations",
+   "category": "vfx",
+   "url": "https://assetstore.unity.com/packages/package/287769",
+   "price": 25,
+   "regular": 50,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     25
+    ]
+   ],
+   "atl": 25,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u206665",
+   "store": "Unity",
+   "name": "All In 1 Vfx Toolkit",
+   "publisher": "Seaside Studios",
+   "category": "vfx",
+   "url": "https://assetstore.unity.com/packages/package/206665",
+   "price": 29.99,
+   "regular": 59.99,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     29.99
+    ]
+   ],
+   "atl": 29.99,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u156513",
+   "store": "Unity",
+   "name": "All In 1 Sprite Shader",
+   "publisher": "Seaside Studios",
+   "category": "vfx",
+   "url": "https://assetstore.unity.com/packages/package/156513",
+   "price": 22.47,
+   "regular": 44.95,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     22.47
+    ]
+   ],
+   "atl": 22.47,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u133704",
+   "store": "Unity",
+   "name": "RPG VFX Bundle",
+   "publisher": "Hovl Studio",
+   "category": "vfx",
+   "url": "https://assetstore.unity.com/packages/package/133704",
+   "price": 24,
+   "regular": 48,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     24
+    ]
+   ],
+   "atl": 24,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u162341",
+   "store": "Unity",
+   "name": "Human Mega Animations Pack",
+   "publisher": "Kevin Iglesias",
+   "category": "3d",
+   "url": "https://assetstore.unity.com/packages/package/162341",
+   "price": 65,
+   "regular": 130,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     65
+    ]
+   ],
+   "atl": 65,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u150668",
+   "store": "Unity",
+   "name": "Forest Environment - Dynamic Nature",
+   "publisher": "NatureManufacture",
+   "category": "3d",
+   "url": "https://assetstore.unity.com/packages/package/150668",
+   "price": 30,
+   "regular": 60,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     30
+    ]
+   ],
+   "atl": 30,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u95214",
+   "store": "Unity",
+   "name": "POLYGON - City Pack",
+   "publisher": "Synty Studios",
+   "category": "3d",
+   "url": "https://assetstore.unity.com/packages/package/95214",
+   "price": 10,
+   "regular": 20,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     10
+    ]
+   ],
+   "atl": 10,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u120152",
+   "store": "Unity",
+   "name": "POLYGON - Nature Pack",
+   "publisher": "Synty Studios",
+   "category": "3d",
+   "url": "https://assetstore.unity.com/packages/package/120152",
+   "price": 24.99,
+   "regular": 49.99,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     24.99
+    ]
+   ],
+   "atl": 24.99,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u175606",
+   "store": "Unity",
+   "name": "FANTASTIC - Dungeon Pack",
+   "publisher": "Tidal Flask Studios",
+   "category": "3d",
+   "url": "https://assetstore.unity.com/packages/package/175606",
+   "price": 44.99,
+   "regular": 89.99,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     44.99
+    ]
+   ],
+   "atl": 44.99,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u176695",
+   "store": "Unity",
+   "name": "GUI Pro - Casual Game",
+   "publisher": "LAYERLAB",
+   "category": "2d",
+   "url": "https://assetstore.unity.com/packages/package/176695",
+   "price": 19.98,
+   "regular": 39.99,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     19.98
+    ]
+   ],
+   "atl": 19.98,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u75123",
+   "store": "Unity",
+   "name": "Clean & Minimalist GUI Pack",
+   "publisher": "ricimi",
+   "category": "2d",
+   "url": "https://assetstore.unity.com/packages/package/75123",
+   "price": 34.99,
+   "regular": 69.98,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     34.99
+    ]
+   ],
+   "atl": 34.99,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u17256",
+   "store": "Unity",
+   "name": "Universal Sound FX",
+   "publisher": "Imphenzia",
+   "category": "audio",
+   "url": "https://assetstore.unity.com/packages/package/17256",
+   "price": 24.97,
+   "regular": 49.95,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     24.97
+    ]
+   ],
+   "atl": 24.97,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u379678",
+   "store": "Unity",
+   "name": "RPG & Fantasy Sounds Bundle",
+   "publisher": "PlaceHolder Inc",
+   "category": "audio",
+   "url": "https://assetstore.unity.com/packages/package/379678",
+   "price": 22.49,
+   "regular": 44.99,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     22.49
+    ]
+   ],
+   "atl": 22.49,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u218594",
+   "store": "Unity",
+   "name": "FPS Engine",
+   "publisher": "Cowsins",
+   "category": "tmpl",
+   "url": "https://assetstore.unity.com/packages/package/218594",
+   "price": 14.99,
+   "regular": 29.99,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     14.99
+    ]
+   ],
+   "atl": 14.99,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u26617",
+   "store": "Unity",
+   "name": "Corgi Engine - 2D + 2.5D Platformer",
+   "publisher": "More Mountains",
+   "category": "tmpl",
+   "url": "https://assetstore.unity.com/packages/package/26617",
+   "price": 37.5,
+   "regular": 75,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     37.5
+    ]
+   ],
+   "atl": 37.5,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u89636",
+   "store": "Unity",
+   "name": "TopDown Engine",
+   "publisher": "More Mountains",
+   "category": "tmpl",
+   "url": "https://assetstore.unity.com/packages/package/89636",
+   "price": 37.5,
+   "regular": 75,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     37.5
+    ]
+   ],
+   "atl": 37.5,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "u45394",
+   "store": "Unity",
+   "name": "Easy Build System",
+   "publisher": "Mind Code Interactive",
+   "category": "tmpl",
+   "url": "https://assetstore.unity.com/packages/package/45394",
+   "price": 14.99,
+   "regular": 29.99,
+   "free": false,
+   "ends": null,
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     14.99
+    ]
+   ],
+   "atl": 14.99,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "f-0ee7ddec-cda7-48eb-8cef-9a648a0b20d0",
+   "store": "Fab",
+   "name": "(ACF J) Ascent Combat Framework J",
+   "publisher": "Dark Tower Int",
+   "category": "tool",
+   "url": "https://www.fab.com/listings/0ee7ddec-cda7-48eb-8cef-9a648a0b20d0",
+   "price": null,
+   "regular": null,
+   "free": false,
+   "ends": "2026-12-02T04:59:00Z",
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [],
+   "atl": null,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "f-0065f6c6-c61e-44ba-a361-25e41c0c490a",
+   "store": "Fab",
+   "name": "Hyper Routine-driven NPC Framework v4",
+   "publisher": "Games By Hyper",
+   "category": "tool",
+   "url": "https://www.fab.com/listings/0065f6c6-c61e-44ba-a361-25e41c0c490a",
+   "price": null,
+   "regular": null,
+   "free": false,
+   "ends": "2026-12-02T04:59:00Z",
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [],
+   "atl": null,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "f-fb29e737-50fd-4bb3-b5d3-3c53c4e2e140",
+   "store": "Fab",
+   "name": "Barcelona - Plaça Reial - Spain",
+   "publisher": "Scans Factory",
+   "category": "3d",
+   "url": "https://www.fab.com/listings/fb29e737-50fd-4bb3-b5d3-3c53c4e2e140",
+   "price": null,
+   "regular": null,
+   "free": false,
+   "ends": "2026-12-02T04:59:00Z",
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [],
+   "atl": null,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "f-278f28b3-69f5-44e8-bd4b-fff5e833e24f",
+   "store": "Fab",
+   "name": "NWIRO - AI Integration Kit",
+   "publisher": "Leartes Studios",
+   "category": "tool",
+   "url": "https://www.fab.com/listings/278f28b3-69f5-44e8-bd4b-fff5e833e24f",
+   "price": null,
+   "regular": null,
+   "free": false,
+   "ends": "2026-12-02T04:59:00Z",
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [],
+   "atl": null,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "f-81550176-a90e-4e07-8817-c8d1a1d3884b",
+   "store": "Fab",
+   "name": "Absorption FX",
+   "publisher": "SHOGUN GAMES",
+   "category": "vfx",
+   "url": "https://www.fab.com/listings/81550176-a90e-4e07-8817-c8d1a1d3884b",
+   "price": 0,
+   "regular": 19.99,
+   "free": true,
+   "ends": "2026-12-01T14:59:00Z",
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     0
+    ]
+   ],
+   "atl": 0,
+   "atl_date": null,
+   "atl_seeded": false,
+   "desc": {
+    "ko": "흡수·흡입 연출용 VFX",
+    "en": "Absorption and drain VFX"
+   }
+  },
+  {
+   "id": "f-205d550d-0a5f-4d5c-9f3e-8f6254b9dc4f",
+   "store": "Fab",
+   "name": "Advanced Companion Drone System",
+   "publisher": "Kozak Assets",
+   "category": "tool",
+   "url": "https://www.fab.com/listings/205d550d-0a5f-4d5c-9f3e-8f6254b9dc4f",
+   "price": 0,
+   "regular": 65.99,
+   "free": true,
+   "ends": "2026-12-01T14:59:00Z",
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     0
+    ]
+   ],
+   "atl": 0,
+   "atl_date": null,
+   "atl_seeded": false,
+   "desc": {
+    "ko": "AI·멀티플레이 지원 동료 드론 시스템",
+    "en": "Companion drone with AI and multiplayer"
+   }
+  },
+  {
+   "id": "f-c0226253-11f0-425d-8b2c-df9c42c73f49",
+   "store": "Fab",
+   "name": "Post-Apocalyptic Factory",
+   "publisher": "Indus North",
+   "category": "3d",
+   "url": "https://www.fab.com/listings/c0226253-11f0-425d-8b2c-df9c42c73f49",
+   "price": 0,
+   "regular": 29.99,
+   "free": true,
+   "ends": "2026-12-01T14:59:00Z",
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     0
+    ]
+   ],
+   "atl": 0,
+   "atl_date": null,
+   "atl_seeded": false,
+   "desc": {
+    "ko": "폐공장 환경과 차량",
+    "en": "Overgrown factory environment and vehicles"
+   }
+  },
+  {
+   "id": "i1",
+   "store": "itch.io",
+   "name": "Big Game Assets Sale (VN Backgrounds)",
+   "publisher": "Rachel Chen",
+   "category": "2d",
+   "url": "https://itch.io/s/127285/big-game-assets-sale-2026",
+   "price": 1.68,
+   "regular": 5.6,
+   "free": false,
+   "ends": "2026-11-25T18:00:00Z",
+   "starts": null,
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     1.68
+    ]
+   ],
+   "atl": 1.68,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "i2",
+   "store": "itch.io",
+   "name": "Verdant Ruins (CC0)",
+   "publisher": "multiplierx",
+   "category": "pixel",
+   "url": "https://itch.io/s/222332",
+   "price": 0.6,
+   "regular": 1,
+   "free": false,
+   "ends": "2026-11-30T14:59:00Z",
+   "starts": "2026-11-24T15:00:00Z",
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     0.6
+    ]
+   ],
+   "atl": 0.6,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "i3",
+   "store": "itch.io",
+   "name": "Pixel Art Packs x53",
+   "publisher": "PixelNestStudio",
+   "category": "pixel",
+   "url": "https://itch.io/s/220643/black-friday-pixel-art-asset-sale-25-off",
+   "price": 0.75,
+   "regular": 1,
+   "free": false,
+   "ends": "2026-12-02T14:59:00Z",
+   "starts": "2026-11-26T15:00:00Z",
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [
+    [
+     "2026-11-24",
+     0.75
+    ]
+   ],
+   "atl": 0.75,
+   "atl_date": null,
+   "atl_seeded": false
+  },
+  {
+   "id": "i4",
+   "store": "itch.io",
+   "name": "Toon Loot Icons Vol.1 + 7 more",
+   "publisher": "kn2909",
+   "category": "2d",
+   "url": "https://itch.io/s/221215",
+   "price": null,
+   "regular": null,
+   "free": false,
+   "ends": "2026-12-02T14:59:00Z",
+   "starts": "2026-11-26T15:00:00Z",
+   "on_sale": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "hist": [],
+   "atl": null,
+   "atl_date": null,
+   "atl_seeded": false,
+   "off": 50
+  }
+ ]
+}

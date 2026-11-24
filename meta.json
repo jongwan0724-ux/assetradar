@@ -1,0 +1,34 @@
+{
+ "updated": "2026-11-24T10:00:00+00:00",
+ "fx": {
+  "rate": 1348.85,
+  "date": "2026-11-23",
+  "source": "Frankfurter (ECB)"
+ },
+ "sources": {
+  "Unity": {
+   "ok": true,
+   "count": 0,
+   "error": "",
+   "last_run": null,
+   "last_ok": "2026-11-24T10:00:00+00:00",
+   "seed": true
+  },
+  "Fab": {
+   "ok": true,
+   "count": 0,
+   "error": "",
+   "last_run": null,
+   "last_ok": "2026-11-24T10:00:00+00:00",
+   "seed": true
+  },
+  "itch.io": {
+   "ok": true,
+   "count": 0,
+   "error": "",
+   "last_run": null,
+   "last_ok": "2026-11-24T10:00:00+00:00",
+   "seed": true
+  }
+ }
+}
